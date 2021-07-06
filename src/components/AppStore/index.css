@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://image.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg');
+  background-size: cover;
+  height: 150vh;
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.inner-container {
+  margin: 0;
+}
+
+.heading {
+  font-family: 'Bree serif';
+  text-align: center;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.input-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.input-style {
+  width: 320px;
+  height: 30px;
+  padding-left: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  padding: 20px;
+  border-width: 0;
+}
+
+.icon-style {
+  width: 40px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+}
+
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tab-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 70%;
+}
+
+.apps-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

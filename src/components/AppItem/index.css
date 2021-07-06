@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.tab-list-item {
+  margin: 15px;
+  border-radius: 15px;
+  box-shadow: 4px 3px 3px 5px red;
+  list-style: none;
+  width: 150px;
+  height: 170px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-img {
+  width: 100px;
+  height: 100px;
+  margin-top: 30px;
+}
+
+.app-name {
+  color: #000000;
+  font-family: 'Bree serif';
+  text-align: center;
+  margin-top: 10px;
+}

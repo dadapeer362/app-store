@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.tab-list {
+  list-style: none;
+  margin: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #7b8794;
+  cursor: pointer;
+  outline: none;
+}
+
+.button-style {
+  cursor: pointer;
+  outline: none;
+  border-width: 0;
+  background-color: lime;
+  border-radius: 15px;
+  padding: 10px;
+  font-weight: bold;
+  color: #000000;
+  font-size: 15px;
+  width: 120px;
+}
+
+.highlight-tab {
+  background-color: yellow;
+  color: #000000;
+}
